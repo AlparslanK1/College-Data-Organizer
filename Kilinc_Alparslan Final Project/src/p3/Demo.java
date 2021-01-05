@@ -22,7 +22,7 @@ import p2.PersonBag;
 import p2.TextbookBag;
 import p2.utilities;
 
-public class Demo extends Application implements Initializable{
+public class Demo extends Application {
 
 
 
@@ -85,9 +85,5 @@ public class Demo extends Application implements Initializable{
 
 	}
 
-	@Override
-	public void initialize(URL arg0, ResourceBundle arg1) {
-	
-		
-	}
+
 }
